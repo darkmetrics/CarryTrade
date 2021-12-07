@@ -1,5 +1,5 @@
 .. -*- mode: rst -*-
-.. _PythonVersion: https://img.shields.io/pypi/pyversions/pandas
+.. image:: https://img.shields.io/pypi/pyversions/pandas   :alt: PyPI - Python Version
 
 Article replication for International Finance course.
 -----------------------------------------------------
