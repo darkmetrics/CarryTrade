@@ -1,5 +1,5 @@
 .. -*- mode: rst -*-
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/pandas">
 
 Article replication for International Finance course.
 -----------------------------------------------------
