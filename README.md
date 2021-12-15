@@ -14,6 +14,7 @@ Project contains:
    * ``clean_data.xlsx`` - cleaned data from Bloomberg to preprocess further.
    * ``fx.csv`` - final version of data on FX spot and forward rates to use when testing strategies from paper. This data was obtained through preprocessing of ``clean_data.xlsx`` in Jupyter Notebook ``carry_trade.ipynb`` (see Notebook).
    * ``vol.csv`` - final version of data on VIX and VXY volatility indexes to use when testing strategies from paper. This data was obtained through preprocessing of ``clean_data.xlsx`` in Jupyter Notebook ``carry_trade.ipynb`` (see Notebook).
-   
+
+- folder ``images`` with high-resolution pictures generated inside our code.
 - Jupyter Notebook ``carry_trade.ipynb`` with data preprocessing and article replication.
 - Unnecessary file with code ``trash.py``.
